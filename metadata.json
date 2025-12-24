@@ -1,0 +1,5 @@
+{
+  "name": "COLEPACK - Industrial OS Analysis",
+  "description": "An internal dashboard for industrial maintenance service order analysis, featuring automated KPIs, machine performance tracking, and professional PDF reporting from Excel data.",
+  "requestFramePermissions": []
+}
